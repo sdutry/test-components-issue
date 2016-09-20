@@ -6,6 +6,6 @@ import com.opensymphony.xwork2.ActionSupport;
 
 @SuppressWarnings("serial")
 @Action
-public class HelloAction extends ActionSupport {
+public class WorkingAction extends ActionSupport {
 
 }
